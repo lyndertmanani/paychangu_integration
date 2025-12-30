@@ -1,8 +1,3 @@
-Got it 👍
-Here’s a **clear, simple README** that reflects your flow properly: **first testing PayChangu API directly, then testing Afrimomo (MCP) on top of it**.
-
----
-
 # PayChangu API Integration – Test Guide
 
 This repository documents the **testing process for PayChangu API integration**, followed by **Afrimomo MCP testing**, which builds on top of PayChangu and other African payment providers.
