@@ -1,6 +1,6 @@
  
 # PayChangu API Integration – Test Guide
-pay
+
 <img src="https://files.readme.io/d7f8cac6b341499ba042072071aa26931cd3dfdccda1b48a0c42043f56a927e7-small-logo.png" alt="PayChangu" width="300" />
 
 **Afrimomo:** [https://afrimomo.fickson.com/](https://afrimomo.fickson.com/)
